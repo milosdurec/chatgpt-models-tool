@@ -83,7 +83,7 @@ Tento projekt je licencovaný pod MIT License.
 ---
 
 **Vytvoril:** [milosdurec](https://github.com/milosdurec)  
-**Posledná aktualizácia:** Január 2025
+**Posledná aktualizácia:** Júl 2025
 ```
 
 ---
